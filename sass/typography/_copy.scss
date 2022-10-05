@@ -1,0 +1,10 @@
+p {
+	margin-top: 1rem;
+}
+.entry-content {
+    p {
+        &:first-of-type {
+            margin-top: 0;
+        }
+    }
+}
