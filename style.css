@@ -983,3 +983,93 @@ object {
 .gallery-caption {
 	display: block;
 }
+.kdg-header {
+    padding: 24px;
+}
+p.top-header-tel {
+    color: #20201d;
+    text-transform: uppercase;
+    font-size: 22px;
+    letter-spacing: 1.1px;
+    font-family: montserrat;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+p.top-header-tel i {
+    color: #c72127;
+}
+.container {
+    max-width: 1180px;
+}
+.logo {
+    max-width: 180px;
+}
+.kdg-footer {
+    padding: 64px;
+    background-color: #c72127;
+    background-image: linear-gradient(to top, #c72127 0%, #20201d 70%, #20201d 100%);
+    color: white;
+}
+p.footer-text {
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 300;
+}
+h4.footer-title {
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+h4.footer-title:after {
+    content: ' ';
+    display: block;
+    width: 35px;
+    height: 2px;
+    background-color: #fa9620;
+    margin-bottom: 1.125rem;
+    margin-top: 6px;
+}
+.footer-map {
+    margin-bottom: -6px;
+}
+p.f-cta-title {
+    color: #111111;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 6px;
+}
+p.f-cta-subtext {
+    color: #20201d;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+}
+p.f-cta-icon {
+    color: #c62127;
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+.footer-cta {
+    box-shadow: 6px 6px 30px rgb(144 144 144 / 15%);
+    background-color: #ffffff;
+    color: black;
+    padding: 24px;
+    text-align: center;
+    position: relative;
+    top: -161px;
+    margin-bottom: -90px;
+}
+.post, .page {
+    margin: 0px;
+}
+p.footer-bottom {
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
